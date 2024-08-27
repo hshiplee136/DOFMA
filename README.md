@@ -17,7 +17,9 @@ s
 The DOFMA System also requires the Sklearn library, the Pandas library, the Numpy library, and the Psutil library.
 
 ## Usage
-The DOFMA System
+The DOFMA System is designed to create a dump of a process, convert it into a CSV file, and then scan it using a ML classifier to predict whether the process has been infected by fileless malware.
+
+Unfortunately, the results were less than satisfactory...
 
 ## References
 minidump by skelsec - https://github.com/skelsec/minidump
