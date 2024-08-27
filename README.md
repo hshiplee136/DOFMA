@@ -13,7 +13,7 @@ Download the files, set up folders, and run!
 
 ### Dependencies
 The DOFMA System requires the usage of minidump to dump process information and write it to a log (Memory, Modules, or Threads), however it is not restricted to this. Alternative code can be used to achieve the same result.
-s
+
 The DOFMA System also requires the Sklearn library, the Pandas library, the Numpy library, and the Psutil library.
 
 ## Usage
