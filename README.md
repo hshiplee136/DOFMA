@@ -1,7 +1,8 @@
 # DOFMA System
 **Real-time Detection of Fileless Malware through the Analysis of Process Dumps**
 
-*Results and pickled models not commited yet*
+**!** *Results not commited yet* **!**
+**!** *KNN-Threads file available on request as it is too large to commit* **!**
 
 ## About
 The DOFMA System was designed by Henry Shiplee as part of the University of the West of England Cyber Security Research Project.
